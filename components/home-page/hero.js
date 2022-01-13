@@ -7,7 +7,7 @@ export default function Hero() {
     <section className={classes.hero}>
       <div className={classes.image}>
         <Image
-          src="/images/site/fajar.jpg"
+          src="/images/site/me.jpg"
           alt="An Image showing Fajar"
           width={300}
           height={300}
